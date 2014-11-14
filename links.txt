@@ -1,0 +1,44 @@
+Hardening Guides: https://benchmarks.cisecurity.org/index.cfm 
+
+Windows 8 security tweaks: http://www.eightforums.com/system-security/36465-windows-8-1-what-best-practice-security-tweaks.html
+http://hardenwindows8forsecurity.com/Harden%20Windows%208.1%2064bit%20Home.html
+
+security benchmark for debian/ubuntu: http://benchmarks.cisecurity.org/downloads/show-single/index.cfm?file=debian.100
+
+Security compliance manager: http://technet.microsoft.com/en-us/library/cc677002.aspx
+
+Security checklists for configuration of OSes and applications: https://web.nvd.nist.gov/view/ncp/repository
+
+http://iase.disa.mil/stigs/Pages/index.aspx
+
+
+https://security.berkeley.edu/node/143 - Recommended Resources for System Hardening
+
+http://ss64.com - command line reference
+
+https://mega.co.nz/#F!QkAVAZaR!N9xVfPYM4cjgXbSI03SDJA - useful ccdc files
+
+Tools
+Wireshark
+Sysinternals suite from microsoft
+Cross exploer
+Process moniter
+Tcp view
+Nmap
+ 
+Close all ports but this port
+Create a gpo that will not let people connect usb on their computers
+Create a powerpoint and present it you will be timed.
+ 
+ 
+Go to advance setting of firewall make sure its on then turn off the ports
+Delete all accounts that all not needed like guest and anyonamus
+Change router password not cisco2
+ 
+Firewall
+Password
+Internal
+Harding a webserver
+
+
+
